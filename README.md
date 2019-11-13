@@ -1,4 +1,4 @@
-# Stroop_Testb
+# Stroop_Test
 Stroop_Test for HSS Project
 
 ## Only 4 Colours:
@@ -18,5 +18,5 @@ Stroop_Test for HSS Project
 ## Motive:
 To measure cognitive abilities of a person
 RED APPLE (&#x1F34E;): 🍎
-<font color="red">
+<font color="red"> hwa
   hello red
