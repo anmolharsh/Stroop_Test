@@ -4,7 +4,7 @@ Stroop_Test for HSS Project
 ## Only 4 Colours:
 ### Red , Green , Blue , Yellow
 
-## Input keys:
+## Input keys: ### ( for Keyboard )
 ### 'R' - RED
 ### 'G'- GREEN
 ### 'B' - BLUE
