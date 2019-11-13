@@ -17,6 +17,6 @@ Stroop_Test for HSS Project
 
 ## Motive:
 To measure cognitive abilities of a person
-
-'''diff
-- text in red
+RED APPLE (&#x1F34E;): 🍎
+<font color="red">
+  hello red
