@@ -1,5 +1,7 @@
 # Stroop_Test
 Stroop_Test for HSS Project
+-
+TEAM: Nikhil Popli, Mukul Mehta, Karan Raj Kakwani, Anmol Harsh
 
 ## Only 4 Colours:
 ### Red , Green , Blue , Yellow
@@ -18,5 +20,3 @@ Stroop_Test for HSS Project
 ## Motive:
 To measure cognitive abilities of a person
 
--
-TEAM: Nikhil Popli, Mukul Mehta, Karan Raj Kakwani, Anmol Harsh
