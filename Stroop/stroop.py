@@ -4,7 +4,7 @@ from os import path
 
 
 
-WIDTH = 800
+WIDTH = 900
 HEIGHT = 600
 FPS = 30
 
@@ -43,7 +43,7 @@ game_text = ["RED" , "GREEN" , "BLUE" , "YELLOW" ]
 game_key = {"RED":pygame.K_r , "GREEN":pygame.K_g , "BLUE": pygame.K_b , "YELLOW" : pygame.K_y}
 
 #create text label
-size= 84
+size= 80
 
 
 # initialize pygame, this must be called before
